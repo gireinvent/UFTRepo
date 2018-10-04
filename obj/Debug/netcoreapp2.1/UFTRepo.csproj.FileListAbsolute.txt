@@ -1,0 +1,11 @@
+C:\UFTRepo\bin\Debug\netcoreapp2.1\UFTRepo.deps.json
+C:\UFTRepo\bin\Debug\netcoreapp2.1\UFTRepo.runtimeconfig.json
+C:\UFTRepo\bin\Debug\netcoreapp2.1\UFTRepo.runtimeconfig.dev.json
+C:\UFTRepo\bin\Debug\netcoreapp2.1\UFTRepo.dll
+C:\UFTRepo\bin\Debug\netcoreapp2.1\UFTRepo.pdb
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.csprojAssemblyReference.cache
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.csproj.CoreCompileInputs.cache
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.AssemblyInfoInputs.cache
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.AssemblyInfo.cs
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.dll
+C:\UFTRepo\obj\Debug\netcoreapp2.1\UFTRepo.pdb
